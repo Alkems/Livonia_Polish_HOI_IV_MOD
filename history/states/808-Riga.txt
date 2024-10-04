@@ -1,0 +1,35 @@
+
+state={
+	id=808
+	name="STATE_808"
+	resources={
+		steel=10
+		oil=7
+	}
+
+	history={
+		owner = EST
+		victory_points = {
+			9340 5 
+		}
+		buildings = {
+			infrastructure = 4 #was: 5
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 5
+			9340 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = EST
+
+	}
+
+	provinces={
+		9240 9340 10323 
+	}
+	manpower=620250
+	buildings_max_level_factor=1.000
+	state_category=city
+}

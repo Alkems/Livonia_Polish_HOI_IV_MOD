@@ -1,0 +1,32 @@
+﻿units = {
+
+	##### NAVAL OOB #####
+	fleet = {
+		name = "Eesti Sojalaevastikl"			
+		naval_base = 3152  # Tallinn
+		task_force = {
+			name = "Eesti Sojalaevastikl"
+			location = 3152  # Tallinn
+			ship = { name = "EML Kalev" definition = submarine equipment = { submarine_2 = { amount = 1 owner = EST } } }			
+			ship = { name = "EML Lembit" definition = submarine equipment = { submarine_2 = { amount = 1 owner = EST } } }		
+			ship = { name = "BII Surm" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "BII Tapja" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "BII Vallutaja" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EST } } }							
+			ship = { name = "BII Valaja" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EST } } }							
+			ship = { name = "BII Jumal" definition = battleship equipment = { battleship_1 = { amount = 1 owner = EST } } }							
+			ship = { name = "Destroyers 1" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 4" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 5" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 6" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 7" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 8" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 9" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 10" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 11" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+			ship = { name = "Destroyers 12" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EST } } }				
+		}				
+	}
+}
+
